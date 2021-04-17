@@ -2,6 +2,6 @@
 
 echo 'Hello world';
 echo "<br />";
-echo 'shiguozhi...';
+echo 'shiguozhi';
 
 exit;
